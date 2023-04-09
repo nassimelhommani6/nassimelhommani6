@@ -1,3 +1,4 @@
+
 ## Hi, Im Nassim  👋
 
 I'm a passionate Data Analyst from Canada with a technical background, holding a Master of Science in Quality Analysis Engineering from Hassan I University and a Master of Engineering in Environmental Engineering from Ottawa University. With 5 years of experience in the Chemical, Manufacturing, and IT Customer Services industries, I've played roles such as Laboratory Analyst, Quality Engineer, and Data Analyst.
@@ -42,3 +43,17 @@ I'm a passionate Data Analyst from Canada with a technical background, holding a
   <img alt="Talend Open Studio" src="https://img.shields.io/badge/Talend%20Open%20Studio-167AA5?logo=talend&logoColor=white&style=for-the-badge" />
   <img alt="Microsoft Office 365" src="https://img.shields.io/badge/Microsoft%20Office%20365-0078D4?logo=microsoftoffice&logoColor=white&style=for-the-badge" />
 </p
+
+ #
+
+ 
+
+ ## 🏆 Certifications: 
+[![Certification Badge](https://res.cloudinary.com/dyd911kmh/image/upload/v1659085702/Certification/Badges%202022/data-analyst-associate-badge.svg)](https://www.datacamp.com/certificate/DAA0014986978928)
+ 
+
+ 
+ 
+ 
+ 
+ 
