@@ -19,6 +19,7 @@ I'm a passionate Data Analyst from Canada with a technical background, holding a
   - [Covid19 Global Impact Dashboard](https://github.com/nassimelhommani6/Covid19_Exploratory_Analysis-/blob/main/Covid19_Dashboard.pdf)
   - [Spotify Data Analysis Dashboard](https://github.com/nassimelhommani6/Spotify_Tracks_Analysis/blob/main/Spotify%20Data%20Analysis%20Dashboard.pdf)
   - [Netlfix Analysis Dashboard](https://github.com/nassimelhommani6/Netflix-Movies-TV-Shows-Analysis/blob/main/Netlfix%20%20Analysis%20Dashboard%20.pdf)
+  - [HR Analysis Dashboard ](https://github.com/nassimelhommani6/HR-Analysis-/blob/main/HRDashboard_Analysis%20.pdf)
 
 ## 🤝 Connect with me:
 <p>
