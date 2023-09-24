@@ -52,7 +52,7 @@ I'm a passionate Microsoft Certified Data Analyst from Canada with a technical b
  ## 🏆 Certifications: 
 [![Certification Badge](https://res.cloudinary.com/dyd911kmh/image/upload/v1659085702/Certification/Badges%202022/data-analyst-associate-badge.svg)](https://www.datacamp.com/certificate/DAA0014986978928)
 
-[![Certification Badge](https://learn.microsoft.com/fr-fr/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main)](https://learn.microsoft.com/api/credentials/share/en-us/98042226/F66AC15799C8B7C4?sharingId=6447C1FCABC0A126)
+[![Microsoft Power BI Certification](https://docs.microsoft.com/en-us/media/learn/certifications/badge-data-analyst-associate-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/98042226/F66AC15799C8B7C4?sharingId=6447C1FCABC0A126)
  
  
  
