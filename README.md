@@ -4,9 +4,11 @@
 I'm a passionate Microsoft Certified Data Analyst from Canada with a technical background, holding a Master of Science in Quality Analysis Engineering from Hassan I University and a Master of Engineering in Environmental Engineering from Ottawa University. With 5 years of experience in the Chemical, Manufacturing, and IT Customer Services industries, I've played roles such as Laboratory Analyst, Quality Engineer, and Data Analyst.
 
 ## 💻 Data Analyst & Science Projects:
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ### Data Analysis project :
+
 - [Covid19 Exploratory Analysis ](https://github.com/nassimelhommani6/Covid19_Exploratory_Analysis-)
 - [Nashville Housing Data Cleaning](https://github.com/nassimelhommani6/Nashville-Housing-Data-Cleaning-)
 - [DannysMa Dinnerchallenge](https://github.com/nassimelhommani6/DannysMa_Dinnerchallenge-)
@@ -16,6 +18,7 @@ I'm a passionate Microsoft Certified Data Analyst from Canada with a technical b
 
 
  ### BI Projects:
+ 
   - [Covid19 Global Impact Dashboard](https://github.com/nassimelhommani6/Covid19_Exploratory_Analysis-/blob/main/Covid19_Dashboard.pdf)
   - [Spotify Data Analysis Dashboard](https://github.com/nassimelhommani6/Spotify_Tracks_Analysis/blob/main/Spotify%20Data%20Analysis%20Dashboard.pdf)
   - [Netlfix Analysis Dashboard](https://github.com/nassimelhommani6/Netflix-Movies-TV-Shows-Analysis/blob/main/Netlfix%20%20Analysis%20Dashboard%20.pdf)
@@ -45,7 +48,7 @@ I'm a passionate Microsoft Certified Data Analyst from Canada with a technical b
   <img alt="Microsoft Office 365" src="https://img.shields.io/badge/Microsoft%20Office%20365-0078D4?logo=microsoftoffice&logoColor=white&style=for-the-badge" />
 </p
 
- #
+ 
 
  
 
