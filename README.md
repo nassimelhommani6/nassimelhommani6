@@ -50,7 +50,7 @@ I'm a passionate Microsoft Certified Data Analyst from Canada with a technical b
 
  
 
- 
+ #
 
  ## 🏆 Certifications: 
  
