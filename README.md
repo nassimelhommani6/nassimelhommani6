@@ -15,7 +15,7 @@ I'm a passionate Microsoft Certified Data Analyst from Canada with a technical b
 - [Netflix Movies TV Shows Analysis](https://github.com/nassimelhommani6/Netflix-Movies-TV-Shows-Analysis)
 - [Spotify Tracks Analysis](https://github.com/nassimelhommani6/Spotify_Tracks_Analysis)
 - [Food Claim Process Analysis](https://github.com/nassimelhommani6/Food-Claim-Process-Analysis)
-- [E-commerce Analysis](Food Claim Process Analysis](https://github.com/nassimelhommani6/Food-Claim-Process-Analysis)
+- [E-commerce Analysis](https://github.com/nassimelhommani6/Food-Claim-Process-Analysis)
 
 
  ### BI Projects:
